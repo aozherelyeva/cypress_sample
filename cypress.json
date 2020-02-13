@@ -1,0 +1,15 @@
+{
+    "projectId": "kzd8ti",
+    "baseUrl": "http://computer-database.gatling.io/",
+    "env": {
+        "pc_name": "nastya_macbook",
+        "introduced_date": "2017-11-05",
+        "discounted_date": "2018-12-01",
+        "company_1": "Apple Inc.",
+        "company_2": "IBM",
+        "searchbox": "input#searchbox",
+        "confirmation_box": ".alert-message.warning",
+        "ok_btn": ".btn.primary",
+        "submit_search_btn": "#searchsubmit"
+    }
+}
